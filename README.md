@@ -1,5 +1,5 @@
 # JungleGameLab W03  
-##### Krafton Jungle GameLab Jam Project W02  
+##### Krafton Jungle GameLab Jam Project W03  
    
 - 프로젝트명 : 너, 나 우리가 힘을 합치니 악당 마법사가 쓰러져버렸습니다만?
 - 장르 : 2D 플랫포머, 액션
