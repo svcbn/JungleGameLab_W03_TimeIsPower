@@ -13,6 +13,6 @@
 ---
 프로젝트 소개 - [Notion](https://svcbn.notion.site/3-55c22e96367b428d900e917520989a33?pvs=4)  
 
-프로젝트 영상 - [Youtube]()  
+프로젝트 영상 - [Youtube](https://youtu.be/RtyzfOxwHhE)  
 
 프로젝트 다운로드 - [Download ZIP](https://github.com/svcbn/JungleGameLab_W03_TimeIsPower/raw/main/Build.zip)
