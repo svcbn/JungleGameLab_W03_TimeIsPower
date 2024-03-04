@@ -15,4 +15,4 @@
 
 프로젝트 영상 - [Youtube]()  
 
-프로젝트 다운로드 - [Download ZIP]()
+프로젝트 다운로드 - [Download ZIP](https://github.com/svcbn/JungleGameLab_W03_TimeIsPower/raw/main/Build.zip)
